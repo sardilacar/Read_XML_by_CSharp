@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBuGa5cDDLBJK41i55W+8FSCaueXQW764EQhARHWfYA=",
+  "Source": "CoreEndpointAPI",
+  "BasePath": "_content/CoreEndpointAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
